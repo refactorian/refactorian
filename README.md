@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**refactorian/refactorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Laravel
 
-Here are some ideas to get you started:
+- 🥷 I’m looking to collaborate on Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **React, Docker, Golang**
+
+- 👨‍💻 All of my projects are available at [https://github.com/refactorian](https://github.com/refactorian)
+
+- 📝 I regularly write articles on [https://refactorian.medium.com/](https://refactorian.medium.com/)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, Laravel**
+
+- 📫 How to reach me **refactorian@gmail.com**
