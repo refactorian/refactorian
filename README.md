@@ -12,6 +12,6 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/refactorian](https://github.com/refactorian)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/refactorian)
 
 - 📫 How to reach me **refactorian@gmail.com**
